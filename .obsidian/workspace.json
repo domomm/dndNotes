@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "924a8c71a3c524dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "652128d36473a335",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcdbc0c2994c8a17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sky Islands/Jaskier/Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32947960567465d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sky Islands/Alina/Network/Melina Gree.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7f0651462ad96869",
+    "type": "split",
+    "children": [
+      {
+        "id": "c193687d77672b5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4b690a8c57c26d6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f9c73c984ba4e083",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "51ea80be612b4599",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8a6086e532968c53",
+    "type": "split",
+    "children": [
+      {
+        "id": "4328cd0c1c6c470b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b41b4b942a53fd27",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sky Islands/Alina/Network/Melina Gree.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "533e031faab92813",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sky Islands/Alina/Network/Melina Gree.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "598294de79b892a9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "99ce44530b8244ad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sky Islands/Alina/Network/Melina Gree.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "32947960567465d9",
+  "lastOpenFiles": [
+    "Sky Islands/Alina/Network/Natalie Pynzky.md",
+    "Sky Islands/Alina/Network/Melina Gree.md",
+    "Sky Islands/Alina/Network/Fontaine Malchair.md",
+    "Sky Islands/Alina/Motivation.md",
+    "Sky Islands/Alina/Network/Ring of Brass.md",
+    "Sky Islands/Alina/Alina Zym.md",
+    "Sky Islands/Jaskier/Jaskier Zym.md",
+    "Sky Islands/Jaskier/Golden Sun.md",
+    "Sky Islands/Jaskier/Feelings.md",
+    "Sky Islands/Jaskier/Notes.md"
+  ]
+}

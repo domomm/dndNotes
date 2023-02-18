@@ -1,0 +1,1 @@
+Magical item shop owned by the Zym family. It is run by the whole family, but the main face of the shop is the father: Aleksy Zym.

@@ -1,0 +1,1 @@
+The theatre troupe that Jaskier was a part of. Get the google docs for more info.

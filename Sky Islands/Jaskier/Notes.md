@@ -1,0 +1,2 @@
+ - Sisterhood still not defined, should talk with people. Start with Steve
+ - Reason why he liked to explore is kinda dumb (want to explore cuz curious about other people, as a kid), that just doesn't feel very right
