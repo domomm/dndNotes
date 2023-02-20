@@ -20,5 +20,13 @@ As one of the best performing students in the academy in her time, she is known 
 - [[Feyna Tak]]
 - [[Lindra Merdrada]]
 
+## Other Friend Circles
+
+Outside of The Ascent, Alina has also made some good friends in the Academy. Here are a few of the memorable ones:
+- [[Zhao Zhang]]
+- [[Lanaya Galewind]]
+
+
+
 
 

@@ -1,0 +1,7 @@
+Zhao Zhang is a human who comes from Thalys, she was an exchange student in the tempest academy and [[Alina Zym]] was basically her buddy, this was in the last year of Alina's study. Zhao actually took multiple courses here and there from the different magical campuses. She was studying druidry back in Thalys, but since the Tempest Academy didn't have a campus for that field, she took different courses from different campuses, though mostly it came from the Divine Magic campus.
+
+Like many chinese students in groep t, she also mostly hung out with the other exchange students from Thalys, Alina being the exception. Alina introduced her to some of her friends in [[The Ascent]]. Zhao ending up becoming their honorary member and helped out in the public liason sector as well, especially when it comes to public relation with Thalys.
+
+Once her exchange year was over, she headed back to Thalys to finish her studies for another year. She was quite fond of Emmeryn that she decided to come back to find a career opportunity there. She ended up becoming an assistant in a herbology shop. She helped the shop grew as she used a lot of her Thalys connection to get more export trades there. She eventually became the co-owner of the shop as well.
+
+She still kept contact with Alina from time to time, but not so much. She also comes back to Thalys to visit her family twice a year.
