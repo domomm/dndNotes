@@ -1,1 +1,0 @@
-Academic rivals, race for grades, was actually doing better than Alina. But became friends at the end after a certain event.

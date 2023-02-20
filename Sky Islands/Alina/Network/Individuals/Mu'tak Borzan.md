@@ -1,0 +1,5 @@
+Mu'tak is a half-giant who comes from Lycea. He's not exactly part of the teaching staffin campus, but he was responsible for some of the physical extracuricular activities in the academy grounds. He oversaw and coached a few of the athletics teams in the academy, one of it is the wall climbing team. As part of mandatory creadit, Alina chose this, honestly she chose this randomly, she didn't have any interest in these sort of things.
+
+At first, things are real rough, Alina was real weak, don't have any strength for the sport. Many times she just wanted to give up. But Mu'tak is the one that kept her going. Mu'tak was tough to her, shouting at her to give everything she got almost at all times. The times where Alina tried to gave up, Mu'tak just shoved her back in. One time Alina really snapped and really wanted to quit. But Mu'tak gave her a nice heart to heart chat about not giving up and how this can this skill be transferred to other aspects of life. In short Mu'tak was basically coach carter (from the film coach carter).
+
+Mu'tak is definitely one of the big reasons why Alina now has a strong mentality.
