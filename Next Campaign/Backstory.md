@@ -1,8 +1,8 @@
 # Generals:
-	- Rogue, arcane trickster, human (big maybe, wait for Steve for list).
-	- From NA region
+	- Rogue/Ranger, human.
+	- From Wabanaki
 	- Real Name: Tahmelapachme Nakai
-	- Age (at the start of the campaign): 41 years old
+	- Age (at the start of the campaign): 4§ (I think) years old
 
 # First Chapter
 

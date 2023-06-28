@@ -24,3 +24,19 @@ final(ish) ideas:
 - Nothing realy happens until like a few years later (just before the start of the campaign). Eyes are suddenly on me and I got hit here and there in public or sumn. 
 	- Option 1: So I called in a favor that I obtained somehow from a (small) crime organization and smuggled out my fam to the filipino region (wife and kid). I run away alone to assure their safety. Conencted by a sending stone
 	- option 2: My husband got killed and I run away with my bastard daughter.
+
+I leave my bf without no notice
+
+Sharav, from Khunnu (Mongol region), met her in Emerald's gate (chinese region port town), was there cuz I was looking for a job.
+
+met Zoey (place holder for Zhin's char). Was in the Chinese region still and in the central city. Leaving Chinese region after about 3 months (still tbd), in this time period I met Zoey. Gradual increase of tension, meeting Zoey is the breakpoint of the realization that I have to leave.
+
+Incident w Zoey with her power, so she looked for me.
+
+Forbidden city, tehre's the emperor, there's the imperial throne. Only women?? They do all sort of the jobs, run by women. Governed by the emperor.
+
+I got an informant in a restaurant or sumn (placeholder name: Rasa Jawa). I'd go there as well w Zoey's mom and eat like normal. We often go there together, works as a cover as well. This is what Sharav told Zoey where to find me basically.
+
+--- 
+
+
