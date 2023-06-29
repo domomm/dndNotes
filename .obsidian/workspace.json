@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Next Campaign/DM Notes/Location/8-10. Zankoku/Zankoku.md",
+                "file": "Next Campaign/DM Notes/Mechanics/Limit breaking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f00e1737a778ac2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Next Campaign/DM Notes/Mechanics/Alignment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5ed36b4e4b714be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Next Campaign/DM Notes/Mechanics/Limit breaking.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "8a6086e532968c53",
@@ -93,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Next Campaign/DM Notes/Location/8-10. Zankoku/Zankoku.md",
+                "file": "Next Campaign/DM Notes/Mechanics/Limit breaking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Next Campaign/DM Notes/Location/8-10. Zankoku/Zankoku.md",
+                "file": "Next Campaign/DM Notes/Mechanics/Limit breaking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Next Campaign/DM Notes/Location/8-10. Zankoku/Zankoku.md"
+                "file": "Next Campaign/DM Notes/Mechanics/Limit breaking.md"
               }
             }
           },
@@ -162,44 +187,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc89027b940fa978",
+  "active": "e4b690a8c57c26d6",
   "lastOpenFiles": [
+    "Next Campaign/DM Notes/Mechanics/Alignment.md",
+    "Next Campaign/DM Notes/Mechanics/Limit breaking.md",
+    "Next Campaign/DM Notes/Mechanics",
+    "Next Campaign/DM Notes/Soul manipulation.md",
+    "Next Campaign/DM Notes/Mechanics/Equivalence to Magic.md",
+    "Next Campaign/DM Notes/Mechanics/Ki System.md",
+    "Next Campaign/DM Notes/The Calendar/The Quantum Moon.md",
+    "Next Campaign/DM Notes/Mechanics/Elemental Ki/wood.md",
+    "Next Campaign/DM Notes/Mechanics/Elemental Ki/water.md",
+    "Next Campaign/DM Notes/Mechanics/Elemental Ki/metal.md",
+    "Next Campaign/DM Notes/Mechanics/Elemental Ki/fire.md",
+    "Next Campaign/DM Notes/Mechanics/Elemental Ki/Elemental Ki.md",
+    "Next Campaign/DM Notes/Mechanics/Elemental Ki/earth.md",
+    "Next Campaign/DM Notes/Mechanics/Elemental Ki",
+    "Next Campaign/DM Notes/The Calendar/The Moon of the Waves.md",
+    "Next Campaign/DM Notes/The Calendar/The Moon of the Tree.md",
+    "Next Campaign/DM Notes/The Calendar/The Moon of the Stone Forest.md",
+    "Next Campaign/DM Notes/The Calendar/The Moon of the Plains.md",
+    "Next Campaign/DM Notes/The Calendar/The Moon of the Orchard.md",
+    "Next Campaign/DM Notes/The Calendar/The Moon of the Lion.md",
+    "Next Campaign/DM Notes/The Calendar/The Moon of Obsidian.md",
+    "Next Campaign/DM Notes/The Calendar/The Howling Moon.md",
+    "Next Campaign/DM Notes/The Calendar/The Heartbeat Moon.md",
+    "Next Campaign/DM Notes/The Calendar/The Cursed Moon.md",
+    "Next Campaign/DM Notes/The Calendar/The Calendar.md",
+    "Next Campaign/DM Notes/The Calendar",
+    "Next Campaign/DM Notes/Location/8-10. Zankoku/Zankoku.md",
+    "Next Campaign/DM Notes/Days of the week/Snake day.md",
+    "Next Campaign/DM Notes/Days of the week",
     "Next Campaign/DM Notes/Images/Development 10 (without background).png",
-    "Next Campaign/DM Notes/Location/8-10. Zankoku/10. Hwaorang/Southern korean region.md",
-    "Next Campaign/DM Notes/Location/8-10. Zankoku/10. Hwaorang/Northern korean region.md",
-    "Next Campaign/DM Notes/Location/8-10. Zankoku/10. Hwaorang/Korean central lake.md",
-    "Next Campaign/DM Notes/Location/8-10. Zankoku/10. Hwaorang/Jiyong university.md",
-    "Next Campaign/DM Notes/Location/8-10. Zankoku/10. Hwaorang/Jiyong.md",
-    "Next Campaign/DM Notes/Location/8-10. Zankoku/10. Hwaorang/Jangdan.md",
-    "Next Campaign/DM Notes/Location/8-10. Zankoku/10. Hwaorang/Hwaorang.md",
-    "Next Campaign/DM Notes/Location/8-10. Zankoku/10. Hwaorang/Heartbeat Harbor.md",
-    "Next Campaign/DM Notes/Location/8-10. Zankoku/10. Hwaorang/Cheongsim.md",
-    "Next Campaign/DM Notes/Location/8-10. Zankoku/9. Xianhua/Xianhua.md",
-    "Next Campaign/DM Notes/Location/8-10. Zankoku/9. Xianhua/Zhina's village.md",
-    "Next Campaign/DM Notes/Location/8-10. Zankoku/9. Xianhua/the Imperial Throne.md",
-    "Next Campaign/DM Notes/Location/8-10. Zankoku/9. Xianhua/The forbidden city.md",
-    "Next Campaign/DM Notes/Location/8-10. Zankoku/9. Xianhua/The Emerald gate.md",
-    "Next Campaign/DM Notes/Location/8-10. Zankoku/9. Xianhua/the Chinese plateau.md",
-    "Next Campaign/DM Notes/Location/8-10. Zankoku/9. Xianhua/Rasa Jawa.md",
-    "Next Campaign/DM Notes/Location/8-10. Zankoku/8. Yamano/Yamano.md",
-    "Next Campaign/DM Notes/Location/8-10. Zankoku/8. Yamano/Tremor strait.md",
-    "Next Campaign/DM Notes/Location/8-10. Zankoku/8. Yamano/Scarlet monastery.md",
-    "Next Campaign/DM Notes/Location/8-10. Zankoku/8. Yamano/Puncture strait.md",
-    "Next Campaign/DM Notes/Location/8-10. Zankoku/8. Yamano/Island 5/Island 5.md",
-    "Next Campaign/DM Notes/Location/8-10. Zankoku/8. Yamano/Island 4 (Ryumon)/Ryumon.md",
-    "Next Campaign/DM Notes/Location/8-10. Zankoku/8. Yamano/Island 3/Island 3.md",
-    "Next Campaign/DM Notes/Location/8-10. Zankoku/8. Yamano/Island 2 (Kizunashima)/Kizunashima.md",
-    "Next Campaign/DM Notes/Location/8-10. Zankoku/8. Yamano/Island 2 (Kizunashima)/Komegawa.md",
     "Next Campaign/DM Notes/Images/Pasted image 20230125030031.png",
     "Next Campaign/DM Notes/Images",
     "Next Campaign/DM Notes/New folder",
     "Next Campaign/DM Notes/Location/4. Wabanaki/Tribes",
     "Next Campaign/DM Notes/Location/4. Wabanaki",
     "Next Campaign/DM Notes/Location",
-    "Next Campaign/DM Notes/4. Wabanaki/Tribes",
-    "Next Campaign/DM Notes/4. Wabanaki",
-    "Next Campaign/DM Notes/Tribes",
-    "Next Campaign/DM Notes",
-    "Untitled"
+    "Next Campaign/DM Notes/4. Wabanaki/Tribes"
   ]
 }
