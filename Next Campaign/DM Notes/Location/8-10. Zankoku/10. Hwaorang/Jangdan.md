@@ -19,5 +19,3 @@ Status: 9%
 ![[WhatsApp Image 2023-04-10 at 16.42.25.jpg|300]]
 
 
-
-"It was a pretty big town, like a bit port. Very commercial and there was also in some places pretty weird deals and stuff so i know my way around with like some shady things you know"
