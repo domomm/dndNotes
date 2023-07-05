@@ -6,7 +6,7 @@ Status: 10%
 
 #Organisation #Group #Wabanaki
 
-The Council of Seven is a council that decides what happens with the [[Wabanaki Capital]] and the six similarly-aligned tribes. 
+The Council of Seven is a council that decides what happens with the [[Wiyasaka]] and the six similarly-aligned tribes. 
 
 Every tribe is built in a way that there is some form of codependency on eachother. 
 
@@ -26,7 +26,7 @@ The [[Trade Tribe]] has connections with the traders of [[Al-Maghrib Al-Wafir]].
 
 
 
-The name alludes to the amount of tribes that have influence there. The amounts of seats depends on the votes of those in the [[Wabanaki Capital]]. They can not vote for the tribe in the [[Wabanaki Capital]] as they will always be one seventh on the seat. 
+The name alludes to the amount of tribes that have influence there. The amounts of seats depends on the votes of those in the [[Wiyasaka]]. They can not vote for the tribe in the [[Wiyasaka]] as they will always be one seventh on the seat. 
 
 In total there are 77 seats that are to be divided. 
 

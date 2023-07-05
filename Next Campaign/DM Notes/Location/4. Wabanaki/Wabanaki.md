@@ -17,13 +17,13 @@ They communicate with the big city by way of smoke rings. Every settlement has t
 The native Americans communicate with eachother using whistle sounds to show what is happening. 
 
 ## Settlements
-There are 6 tribes/settlements that find themselves deeply intertwined in the politics of the [[Wabanaki Capital]]. These different tribes do have a connection with eachother. Some of them are in good faith, others not so much. 
+There are 6 tribes/settlements that find themselves deeply intertwined in the politics of the [[Wiyasaka]]. These different tribes do have a connection with eachother. Some of them are in good faith, others not so much. 
 
-Every settlement works with a system of tribe chief. The chief has the final say over what must done to the tribe internally. It is not done by the [[Council of Seven]]. When it comes to immigration matters, that is decided inside the [[Wabanaki Capital]]. 
+Every settlement works with a system of tribe chief. The chief has the final say over what must done to the tribe internally. It is not done by the [[Council of Seven]]. When it comes to immigration matters, that is decided inside the [[Wiyasaka]]. 
 
 The tribe chief is assisted by tribe elders. These elders are more in touch with the nature side of things and have been feeling left behind due to the encroaching globalisation. 
 
-Next there is village representative for the [[Council of Seven]]. These are "politicians" that early one get sent to the [[Wabanaki Capital]] to learn and study. After, they can be elected. 
+Next there is village representative for the [[Council of Seven]]. These are "politicians" that early one get sent to the [[Wiyasaka]] to learn and study. After, they can be elected. 
 
 
 What would be a good name for a native american Capital city set in a fantasy world? Could you give me some suggestions

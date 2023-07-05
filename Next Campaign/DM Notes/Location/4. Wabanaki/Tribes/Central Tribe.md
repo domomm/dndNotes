@@ -6,7 +6,7 @@ Status: 3%
 
 #Wabanaki #NPC #Group 
 
-The central tribe inhibits the [[Wabanaki Capital]]. 
+The central tribe inhibits the [[Wiyasaka]]. 
 
 
 
