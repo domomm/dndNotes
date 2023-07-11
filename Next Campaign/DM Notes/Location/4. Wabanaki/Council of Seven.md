@@ -12,7 +12,7 @@ Every tribe is built in a way that there is some form of codependency on eachoth
 
 The [[Central Tribe]] is the one that makes it possible for there to be communication between the different tribes. They use their birds and smoke towers to be able to alert the different tribes. 
 
-[[Nakai's tribe]] does most of the hunting, while they do most of the hunting, others are permitted to hunt as well, but [[Nakai's tribe]] is allowed in places that other tribes are not due to the sacred beasts that live there. 
+[[Wapiti Oweyah]] does most of the hunting, while they do most of the hunting, others are permitted to hunt as well, but [[Wapiti Oweyah]] is allowed in places that other tribes are not due to the sacred beasts that live there. 
 
 The [[Coastal tribe]] live off the sea and welcome in any foreigners that try to enter the country by ship. They share their food with the rest of the tribes.
 
