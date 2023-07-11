@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Next Campaign/Unfiled Lores.md",
+                "file": "Next Campaign/DM Notes/The Calendar/The Howling Moon.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Next Campaign/Unfiled Lores.md",
+                "file": "Next Campaign/DM Notes/The Calendar/The Howling Moon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Next Campaign/Unfiled Lores.md",
+                "file": "Next Campaign/DM Notes/The Calendar/The Howling Moon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Next Campaign/Unfiled Lores.md"
+                "file": "Next Campaign/DM Notes/The Calendar/The Howling Moon.md"
               }
             }
           }
@@ -229,25 +229,36 @@
   },
   "active": "fc89027b940fa978",
   "lastOpenFiles": [
-    "Next Campaign/Unfiled details.md",
+    "Next Campaign/DM Notes/The Calendar/The Heartbeat Moon.md",
+    "Next Campaign/DM Notes/The Calendar/The Cursed Moon.md",
+    "Next Campaign/DM Notes/Location/8-10. Zankoku/8. Yamano/Island 1/Island 1.md",
+    "Next Campaign/DM Notes/Location/6. Khunnu/Uul.md",
+    "Next Campaign/DM Notes/Location/6. Khunnu/Tovshuur.md",
+    "Next Campaign/DM Notes/Location/6. Khunnu/Orkhon.md",
+    "Next Campaign/DM Notes/Location/6. Khunnu/Khunnu.md",
+    "Next Campaign/DM Notes/Location/6. Khunnu/Mongolian Yurts.md",
     "Next Campaign/Backstory Big Outlines.md",
+    "Next Campaign/Unfiled details.md",
     "Next Campaign/Tahmelapachme, first ideas.md",
+    "Next Campaign/Unfiled Lores.md",
+    "Next Campaign/DM Notes/Location/4. Wabanaki/Wiyasaka.md",
+    "Next Campaign/DM Notes/Location/4. Wabanaki/Wabanaki.md",
+    "Next Campaign/DM Notes/Location/4. Wabanaki/Item that creates forests.md",
+    "Next Campaign/DM Notes/Location/4. Wabanaki/Council of Seven.md",
+    "Next Campaign/DM Notes/Days of the week/Goat day.md",
+    "Next Campaign/DM Notes/Days of the week/Horse day.md",
+    "Next Campaign/DM Notes/Days of the week/Pig day.md",
+    "Next Campaign/DM Notes/Days of the week/Snake day.md",
+    "Next Campaign/DM Notes/Images/Drawing Wiyasaka.excalidraw.png",
+    "Next Campaign/DM Notes/Images/Pasted image 20230125030031.png",
+    "Next Campaign/DM Notes/Images/Development 10 (without background).png",
+    "Next Campaign/DM Notes/Days of the week/Dog day.md",
+    "Next Campaign/DM Notes/Days of the week/Dragon day.md",
+    "Dragon Zodiac.md",
+    "Next Campaign/DM Notes/Days of the week/Days of the week.md",
     "Next Campaign/Backstory.md",
     "Next Campaign/Vivid memories/Childhood, pre-assassination.md",
-    "Next Campaign/Unfiled Lores.md",
     "Untitled",
-    "Next Campaign/Vivid memories",
-    "Sky Islands/Alina/Network/Individuals/Fontaine Malchair.md",
-    "Sky Islands/Alina/Network/Organizations/The Ascent.md",
-    "Sky Islands/Alina/Alina Zym.md",
-    "Sky Islands/Alina/Network/Individuals/Melina Gree.md",
-    "Sky Islands/Alina/Network/Individuals/Lanaya Galewind.md",
-    "Sky Islands/Alina/Network/Individuals/Natalie Pynzky.md",
-    "Sky Islands/Alina/Network/Individuals/Zhao Zhang.md",
-    "Sky Islands/Alina/Motivation.md",
-    "Sky Islands/Jaskier/Jaskier Zym.md",
-    "Sky Islands/Alina/Network/Individuals/Mu'tak Borzan.md",
-    "Sky Islands/Alina/Network/Individuals/Lindra Merdrada.md",
-    "Sky Islands/Alina/Network/Individuals/Gilderoy Frinz.md"
+    "Next Campaign/Vivid memories"
   ]
 }
