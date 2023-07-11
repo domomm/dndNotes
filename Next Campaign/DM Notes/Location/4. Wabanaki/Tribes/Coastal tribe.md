@@ -6,6 +6,8 @@ Status: 3%
 
 #Wabanaki #NPC #Group 
 
+"Miskwa Nókwe" can be a fitting name for such a tribe. It combines elements from different Native American languages to symbolize their coastal lifestyle and connection to the sea. "Miskwa" is inspired by the Ojibwe word for "water" or "ocean," representing their close relationship with aquatic environments. "Nókwe" is derived from the Algonquin word for "fish" or "fisherman," highlighting their expertise in fishing and their reliance on marine resources.
+
 
 
 

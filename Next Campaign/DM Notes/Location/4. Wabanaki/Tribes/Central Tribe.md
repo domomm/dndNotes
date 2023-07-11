@@ -1,12 +1,14 @@
 ---
 type: Tribe, NPC, Group
 country: Wabanaki
-Status: 3%
+Status: 6
 ---
 
 #Wabanaki #NPC #Group 
 
-The central tribe inhibits the [[Wiyasaka]]. 
+The central tribe inhibits the [[Wiyasaka]]. They are also called the Tawiyechetl (pronounced ta-wi-ye-chetl)
+
+This name is a combination of elements from different Native American languages and has a symbolic meaning. "Tawíye" is inspired by the Lakota Sioux word for "speak" or "talk," emphasizing the tribe's focus on communication. "Chetl" is a term inspired by the Nahuatl language, which can be translated as "sky" or "heavens," highlighting their special connection with celestial realms.
 
 
 
