@@ -8,91 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bcdbc0c2994c8a17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sky Islands/Jaskier/Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d10af9ae93123fb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sky Islands/Alina/Network/Individuals/Melina Gree.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76bd1b1d50108337",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Next Campaign/Backstory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab77be994d29ae39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Next Campaign/Backstory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb9d009d0b87b1af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Next Campaign/Backstory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "18083076bc446675",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Next Campaign/Unfiled details.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fc89027b940fa978",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Next Campaign/DM Notes/The Calendar/The Howling Moon.md",
+                "file": "Next Campaign/Backstory Big Outlines.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Next Campaign/DM Notes/The Calendar/The Howling Moon.md",
+                "file": "Next Campaign/Backstory Big Outlines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Next Campaign/DM Notes/The Calendar/The Howling Moon.md",
+                "file": "Next Campaign/Backstory Big Outlines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Next Campaign/DM Notes/The Calendar/The Howling Moon.md"
+                "file": "Next Campaign/Backstory Big Outlines.md"
               }
             }
           }
@@ -227,8 +154,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc89027b940fa978",
+  "active": "e4b690a8c57c26d6",
   "lastOpenFiles": [
+    "Next Campaign/DM Notes/The Calendar/The Howling Moon.md",
     "Next Campaign/DM Notes/The Calendar/The Heartbeat Moon.md",
     "Next Campaign/DM Notes/The Calendar/The Cursed Moon.md",
     "Next Campaign/DM Notes/Location/8-10. Zankoku/8. Yamano/Island 1/Island 1.md",
@@ -257,7 +185,6 @@
     "Dragon Zodiac.md",
     "Next Campaign/DM Notes/Days of the week/Days of the week.md",
     "Next Campaign/Backstory.md",
-    "Next Campaign/Vivid memories/Childhood, pre-assassination.md",
     "Untitled",
     "Next Campaign/Vivid memories"
   ]
