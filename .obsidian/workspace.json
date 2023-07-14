@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Next Campaign/Backstory Big Outlines.md",
+                "file": "Next Campaign/DM Notes/Location/6. Khunnu/Mongolian Yurts.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Next Campaign/Backstory Big Outlines.md",
+                "file": "Next Campaign/DM Notes/Location/6. Khunnu/Mongolian Yurts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Next Campaign/Backstory Big Outlines.md",
+                "file": "Next Campaign/DM Notes/Location/6. Khunnu/Mongolian Yurts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,16 +133,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Next Campaign/Backstory Big Outlines.md"
+                "file": "Next Campaign/DM Notes/Location/6. Khunnu/Mongolian Yurts.md"
               }
             }
+          },
+          {
+            "id": "c4439b8185786fce",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,37 +162,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4b690a8c57c26d6",
+  "active": "fc89027b940fa978",
   "lastOpenFiles": [
+    "Next Campaign/DM Notes/Location/6. Khunnu/Orkhon.md",
+    "Next Campaign/DM Notes/Location/6. Khunnu/Tovshuur.md",
+    "Next Campaign/DM Notes/Location/6. Khunnu/Uul.md",
+    "Next Campaign/DM Notes/Location/6. Khunnu/Mongolian Yurts.md",
+    "Next Campaign/DM Notes/Location/4. Wabanaki/Tribes/Central Tribe.md",
+    "Next Campaign/DM Notes/Location/4. Wabanaki/Tribes/Coastal tribe.md",
+    "Next Campaign/DM Notes/Location/4. Wabanaki/Tribes/Fire tribe.md",
+    "Next Campaign/DM Notes/Location/4. Wabanaki/Tribes/Nakai's tribe.md",
+    "Next Campaign/DM Notes/Location/4. Wabanaki/Tribes/Warrior Tribe.md",
+    "Next Campaign/DM Notes/History/Zankoku-Khunnu war.md",
+    "metal dragonborn on island 4.md",
+    "fire dragonborn on Island 4.md",
+    "Next Campaign/Backstory Big Outlines.md",
+    "Next Campaign/DM Notes/History",
+    "Next Campaign/Backstory.md",
+    "Next Campaign/DM Notes/Location/4. Wabanaki/Wabanaki.md",
+    "Next Campaign/DM Notes/Location/4. Wabanaki/Item that creates forests.md",
+    "Next Campaign/DM Notes/Location/4. Wabanaki/Council of Seven.md",
+    "Next Campaign/DM Notes/Images/Development 10 (without background).png",
+    "Next Campaign/DM Notes/Images/Pasted image 20230125030031.png",
+    "Next Campaign/DM Notes/Images/Drawing Wiyasaka.excalidraw.png",
     "Next Campaign/DM Notes/The Calendar/The Howling Moon.md",
     "Next Campaign/DM Notes/The Calendar/The Heartbeat Moon.md",
     "Next Campaign/DM Notes/The Calendar/The Cursed Moon.md",
     "Next Campaign/DM Notes/Location/8-10. Zankoku/8. Yamano/Island 1/Island 1.md",
-    "Next Campaign/DM Notes/Location/6. Khunnu/Uul.md",
-    "Next Campaign/DM Notes/Location/6. Khunnu/Tovshuur.md",
-    "Next Campaign/DM Notes/Location/6. Khunnu/Orkhon.md",
     "Next Campaign/DM Notes/Location/6. Khunnu/Khunnu.md",
-    "Next Campaign/DM Notes/Location/6. Khunnu/Mongolian Yurts.md",
-    "Next Campaign/Backstory Big Outlines.md",
     "Next Campaign/Unfiled details.md",
     "Next Campaign/Tahmelapachme, first ideas.md",
     "Next Campaign/Unfiled Lores.md",
     "Next Campaign/DM Notes/Location/4. Wabanaki/Wiyasaka.md",
-    "Next Campaign/DM Notes/Location/4. Wabanaki/Wabanaki.md",
-    "Next Campaign/DM Notes/Location/4. Wabanaki/Item that creates forests.md",
-    "Next Campaign/DM Notes/Location/4. Wabanaki/Council of Seven.md",
-    "Next Campaign/DM Notes/Days of the week/Goat day.md",
-    "Next Campaign/DM Notes/Days of the week/Horse day.md",
-    "Next Campaign/DM Notes/Days of the week/Pig day.md",
-    "Next Campaign/DM Notes/Days of the week/Snake day.md",
-    "Next Campaign/DM Notes/Images/Drawing Wiyasaka.excalidraw.png",
-    "Next Campaign/DM Notes/Images/Pasted image 20230125030031.png",
-    "Next Campaign/DM Notes/Images/Development 10 (without background).png",
-    "Next Campaign/DM Notes/Days of the week/Dog day.md",
-    "Next Campaign/DM Notes/Days of the week/Dragon day.md",
-    "Dragon Zodiac.md",
-    "Next Campaign/DM Notes/Days of the week/Days of the week.md",
-    "Next Campaign/Backstory.md",
     "Untitled",
     "Next Campaign/Vivid memories"
   ]
