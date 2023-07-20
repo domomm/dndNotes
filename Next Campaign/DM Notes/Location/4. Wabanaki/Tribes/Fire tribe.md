@@ -7,7 +7,7 @@ Status: 3%
 #Wabanaki #NPC #Group 
 
 
-
+"Chetan Nahalli" could be a suitable name for such a tribe. The name combines elements from different Native American languages to capture their expertise in crafting various materials. "Chetan" is derived from the Navajo word for "metal," representing their mastery of working with metals. "Nahalli" is inspired by the Hopi word for "artisan" or "craftsman," highlighting their skill in creating intricate and beautiful weapons, glassware, clay pottery, and other objects.
 
 
 

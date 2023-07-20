@@ -18,8 +18,43 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1358195e0e34cd84",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Next Campaign/DM Notes/Location/4. Wabanaki/Tribes/Fire tribe.md",
+                "staged": true
+              }
+            }
+          },
+          {
+            "id": "880b07e7542a2747",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Next Campaign/DM Notes/Location/4. Wabanaki/Council of Seven.md",
+                "staged": true
+              }
+            }
+          },
+          {
+            "id": "4ae803e710db6b8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Next Campaign/Backstory Big Outlines.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -93,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Next Campaign/DM Notes/Location/6. Khunnu/Mongolian Yurts.md",
+                "file": "Next Campaign/Backstory Big Outlines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Next Campaign/DM Notes/Location/6. Khunnu/Mongolian Yurts.md",
+                "file": "Next Campaign/Backstory Big Outlines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Next Campaign/DM Notes/Location/6. Khunnu/Mongolian Yurts.md"
+                "file": "Next Campaign/Backstory Big Outlines.md"
               }
             }
           },
@@ -162,13 +197,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc89027b940fa978",
+  "active": "4ae803e710db6b8a",
   "lastOpenFiles": [
+    "Next Campaign/DM Notes/Location/4. Wabanaki/Tribes/Central Tribe.md",
+    "conflict-files-obsidian-git.md",
+    "Next Campaign/DM Notes/Location/6. Khunnu/Mongolian Yurts.md",
+    "Next Campaign/DM Notes/Location/4. Wabanaki/Tribes/Wapiti Oweyah.md",
     "Next Campaign/DM Notes/Location/6. Khunnu/Orkhon.md",
     "Next Campaign/DM Notes/Location/6. Khunnu/Tovshuur.md",
     "Next Campaign/DM Notes/Location/6. Khunnu/Uul.md",
-    "Next Campaign/DM Notes/Location/6. Khunnu/Mongolian Yurts.md",
-    "Next Campaign/DM Notes/Location/4. Wabanaki/Tribes/Central Tribe.md",
     "Next Campaign/DM Notes/Location/4. Wabanaki/Tribes/Coastal tribe.md",
     "Next Campaign/DM Notes/Location/4. Wabanaki/Tribes/Fire tribe.md",
     "Next Campaign/DM Notes/Location/4. Wabanaki/Tribes/Nakai's tribe.md",
@@ -192,8 +229,6 @@
     "Next Campaign/DM Notes/Location/6. Khunnu/Khunnu.md",
     "Next Campaign/Unfiled details.md",
     "Next Campaign/Tahmelapachme, first ideas.md",
-    "Next Campaign/Unfiled Lores.md",
-    "Next Campaign/DM Notes/Location/4. Wabanaki/Wiyasaka.md",
     "Untitled",
     "Next Campaign/Vivid memories"
   ]
