@@ -23,15 +23,26 @@
             "id": "3e2417fcba66112e",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Next Campaign/DM Notes/Location/8-10. Zankoku/8. Yamano/Island 2 (Kizunashima)/Island 2 port town.md",
-                "staged": false
+                "file": "Next Campaign/Backstory Big Outlines.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fafb445cf768109f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Next Campaign/Backstory Big Outlines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Next Campaign/Backstory Big Outlines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Next Campaign/Backstory Big Outlines.md"
+              }
             }
           },
           {
@@ -170,10 +185,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3e2417fcba66112e",
+  "active": "fafb445cf768109f",
   "lastOpenFiles": [
-    "Next Campaign/DM Notes/Location/6. Khunnu/Khunnu.md",
+    "Dragon Zodiac.md",
+    "Age of Glory.md",
     "conflict-files-obsidian-git.md",
+    "Next Campaign/Backstory Big Outlines.md",
+    "Next Campaign/DM Notes/Location/6. Khunnu/Khunnu.md",
     "Next Campaign/DM Notes/Location/8-10. Zankoku/8. Yamano/Island 2 (Kizunashima)/Kizunashima.md",
     "Next Campaign/wabanaki/Overall.md",
     "Next Campaign/DM Notes/Location/6. Khunnu/Mongolian Yurts.md",
@@ -184,7 +202,6 @@
     "Next Campaign/DM Notes/Location/8-10. Zankoku/8. Yamano/Tremor strait.md",
     "Next Campaign/DM Notes/Location/8-10. Zankoku/8. Yamano/Scarlet monastery.md",
     "Next Campaign/DM Notes/Location/8-10. Zankoku/8. Yamano/Puncture strait.md",
-    "Next Campaign/Backstory Big Outlines.md",
     "Next Campaign/Backstory.md",
     "Next Campaign/wabanaki",
     "Next Campaign/Unfiled details.md",
@@ -197,14 +214,12 @@
     "Next Campaign/DM Notes/Characters/NPC",
     "Next Campaign/DM Notes/Characters",
     "Next Campaign/TO DO",
-    "Age of Glory.md",
     "Next Campaign/DM Notes/Location/4. Wabanaki/Tribes/Central Tribe.md",
     "Next Campaign/DM Notes/Location/4. Wabanaki/Tribes/Wapiti Oweyah.md",
     "Next Campaign/DM Notes/Location/6. Khunnu/Orkhon.md",
     "Next Campaign/DM Notes/Location/6. Khunnu/Tovshuur.md",
     "Next Campaign/DM Notes/Location/6. Khunnu/Uul.md",
     "Next Campaign/DM Notes/Location/4. Wabanaki/Tribes/Coastal tribe.md",
-    "Next Campaign/DM Notes/Location/4. Wabanaki/Tribes/Fire tribe.md",
     "Next Campaign/DM Notes/History",
     "Next Campaign/DM Notes/Images/Pasted image 20230125030031.png",
     "Next Campaign/DM Notes/Images/Drawing Wiyasaka.excalidraw.png",
