@@ -34,13 +34,13 @@ The departure (NOT SOLID YET):
 	- But then he started questioning things, mainly because now he's hella confused who to trust or what's going to happen. Found out nasty shit somehow, and got paranoia, so he starts planning an escape, but also with his brother. He eventually finish the plan of freeing him, and attempted it. Halfway of the prison break, something goes wrong, blah blah blah, but at the end, there's a dramatic moment where Tah just need to jump and grab Tommy's hand but refused because he needed to stay in jail to make sure his lover isn't dead. So Tommy escaped alone, and super sad.
 # Going Thru Khunnu
 
-Quite literally just wandered with a quite shifty caravan (that came From Khunnu originally), in turn I became a bit of their body guard. In Tommy's mind at that point is just get as far away as possible. He is very much still confused. Eventually, he adopted the "fuck this shit Ima just wander around" mentality, like there's a desire in exploring the world, but more in a spiteful manner cuz he defo didn't earn his money in a good way, mainly cuz he got connected through his shifty caravan. 
+Quite literally just wandered with a quite shifty caravan (that came From Khunnu originally), in turn I became a bit of their body guard. In Tommy's mind at that point is just get as far away as possible. He is very much still confused. Eventually, he adopted the "fuck this shit Ima just wander around, get away as far as possible from home" mentality, like there's a desire in exploring the world, but more in a spiteful manner cuz he defo didn't earn his money in a good way, mainly cuz he got connected through his shifty caravan. 
 
-He was like a mercenary, guarding some shits (for both sides), some smuggling, coercion, even a small assassination (however, nothing too closely related to the war, he was smart enough to avoid that, at least that's what he thought).
-
-
-
+He was like a mercenary, guarding some shits (for both sides), some smuggling, coercion. He eventually made his way across the border just fine. He did however had to sneak past the border cuz war. He even stole some soldier garbs to pass through some area safely.
 # Zankoku
+
+## Yamano
+
 
 So I met Sharav right, got together as a couple, got pretty close, MIGHT share my past (THINK ABOUT THIS). Then neighbourhood got bullied (especially the indo pinoys (let's call em inpins lmao) are targeted). {MAYBE} a close person to me got bullied, so Me no likey, so I investigated, made some deals with the inpins mafia (I think), got info, killed some low lackeys (the bullies).
 
