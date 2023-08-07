@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Next Campaign/DM Notes/Location/8-10. Zankoku/8. Yamano/Tremor strait.md",
+                "file": "Next Campaign/Backstory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49cf004b92287338",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Next Campaign/Tommy's feeling map.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cdd51df8654c9514",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Next Campaign/Tommy's feeling map.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Next Campaign/DM Notes/Location/8-10. Zankoku/8. Yamano/Tremor strait.md",
+                "file": "Next Campaign/Tommy's feeling map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Next Campaign/DM Notes/Location/8-10. Zankoku/8. Yamano/Tremor strait.md",
+                "file": "Next Campaign/Tommy's feeling map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Next Campaign/DM Notes/Location/8-10. Zankoku/8. Yamano/Tremor strait.md"
+                "file": "Next Campaign/Tommy's feeling map.md"
               }
             }
           },
@@ -175,13 +199,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2ed87520fde881b7",
+  "active": "cdd51df8654c9514",
   "lastOpenFiles": [
+    "Next Campaign/miscs/Possible effect of Trauma in Relationship.md",
+    "Next Campaign/Tommy's feeling map.md",
+    "Next Campaign/Unfiled Lores.md",
+    "Next Campaign/miscs",
+    "Next Campaign/Backstory.md",
+    "Next Campaign/DM Notes/Location/8-10. Zankoku/8. Yamano/Tremor strait.md",
     "Next Campaign/DM Notes/Location/8-10. Zankoku/8. Yamano/Island 2 (Kizunashima)/Kizunashima.md",
     "Next Campaign/DM Notes/Location/8-10. Zankoku/9. Xianhua/Rasa Jawa.md",
     "Next Campaign/DM Notes/Location/8-10. Zankoku/8. Yamano/Island 3/Island 3.md",
     "Next Campaign/DM Notes/Location/8-10. Zankoku/8. Yamano/Island 2 (Kizunashima)/Island 2 port town.md",
-    "Next Campaign/DM Notes/Location/8-10. Zankoku/8. Yamano/Tremor strait.md",
     "Next Campaign/DM Notes/Characters/NPC/Mandkhai.md",
     "Next Campaign/DM Notes/Images/Development 10 (without background).png",
     "Next Campaign/DM Notes/Location/8-10. Zankoku/8. Yamano/Scarlet monastery.md",
@@ -201,17 +230,13 @@
     "Next Campaign/wabanaki/Overall.md",
     "Next Campaign/DM Notes/Location/6. Khunnu/Mongolian Yurts.md",
     "Next Campaign/TO DO/Player To-Do.md",
-    "Next Campaign/Backstory.md",
     "Next Campaign/wabanaki",
     "Next Campaign/Unfiled details.md",
     "fire dragonborn on Island 4.md",
     "Next Campaign/DM Notes/History/Zankoku-Khunnu war.md",
-    "Next Campaign/DM Notes/Characters/NPC/Warhorse.md",
     "Next Campaign/DM Notes/Characters/NPC",
     "Next Campaign/DM Notes/Characters",
     "Next Campaign/TO DO",
-    "Next Campaign/DM Notes/Location/4. Wabanaki/Tribes/Central Tribe.md",
-    "Next Campaign/DM Notes/Location/4. Wabanaki/Tribes/Wapiti Oweyah.md",
     "Next Campaign/DM Notes/History",
     "Next Campaign/Vivid memories"
   ]
