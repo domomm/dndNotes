@@ -22,5 +22,5 @@ Became very distant with Sharav. He is actually very saddened about it, but he k
 When he had to lay low in Yamano, spending much time alone in regret, he realized that his behaviour with Sharav was bad, and that he should have stayed with her. At this point he started acknowledging the problem that he has and hoped to redeem himself one day, but too scared to go back to Xianhua (for safety and emotional reasons).
 # With Zoey
 
-When he met Zoey, it was like an opportunity from the universe to redeem himself. He finally gathered the courage to face his past in Xianhua. After fleeing, it is his go
+When he met Zoey, it was like an opportunity from the universe to redeem himself. He finally gathered the courage to face his past in Xianhua. After fleeing, it is his goal to try to redeem himself by trying to make up for the lost years with Zoey.
 
