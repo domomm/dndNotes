@@ -19,7 +19,9 @@
 Possible behaviours:
 Given Tommy's background and the traumas he has experienced, there could be several behavioral patterns or issues that he might exhibit in a relationship. Here are some examples, ranging from not so bad to really bad:
 
-1. Not So Bad (Quirks): a. Difficulty expressing emotions: Tommy might struggle to articulate his feelings due to his uncharismatic nature and past traumas. This could make emotional communication challenging in the relationship. b. Reserved or stoic demeanor: His Native American upbringing and training as a hunter might contribute to a reserved and stoic personality, making it harder for him to show vulnerability or warmth.
+1. Not So Bad (Quirks): 
+	-  Difficulty expressing emotions: Tommy might struggle to articulate his feelings due to his uncharismatic nature and past traumas. This could make emotional communication challenging in the relationship. 
+	- Reserved or stoic demeanor: His Native American upbringing and training as a hunter might contribute to a reserved and stoic personality, making it harder for him to show vulnerability or warmth.
     
 2. Moderate Behavior (Potential Red Flags): a. Avoidance of conflict: Tommy might avoid discussing difficult topics or conflicts, leading to unresolved issues in the relationship. b. Overprotectiveness: Due to his protective instincts, he might become overly possessive or controlling, which can strain the relationship.
     
