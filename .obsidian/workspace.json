@@ -110,7 +110,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Next Campaign/DM Notes/Characters/NPC/Mandkhai.md",
+                "file": "Next Campaign/DM Notes/Mechanics/Limit breaking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Next Campaign/DM Notes/Characters/NPC/Mandkhai.md",
+                "file": "Next Campaign/DM Notes/Mechanics/Limit breaking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Next Campaign/DM Notes/Characters/NPC/Mandkhai.md"
+                "file": "Next Campaign/DM Notes/Mechanics/Limit breaking.md"
               }
             }
           },
@@ -183,7 +184,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -199,7 +200,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "99ce44530b8244ad",
+  "active": "f9c73c984ba4e083",
   "lastOpenFiles": [
     "Next Campaign/DM Notes/Characters/NPC/Warhorse.md",
     "conflict-files-obsidian-git.md",
