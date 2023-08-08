@@ -110,8 +110,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Next Campaign/DM Notes/Mechanics/Limit breaking.md",
+                "file": "Next Campaign/DM Notes/Characters/NPC/Mandkhai.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Next Campaign/DM Notes/Mechanics/Limit breaking.md",
+                "file": "Next Campaign/DM Notes/Characters/NPC/Mandkhai.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Next Campaign/DM Notes/Mechanics/Limit breaking.md"
+                "file": "Next Campaign/DM Notes/Characters/NPC/Mandkhai.md"
               }
             }
           },
@@ -200,8 +199,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9c73c984ba4e083",
+  "active": "e4b690a8c57c26d6",
   "lastOpenFiles": [
+    "Next Campaign/DM Notes/Mechanics/Limit breaking.md",
     "Next Campaign/DM Notes/Characters/NPC/Warhorse.md",
     "conflict-files-obsidian-git.md",
     "Next Campaign/DM Notes/Images/Warhorse 1.png",
@@ -234,7 +234,6 @@
     "Next Campaign/DM Notes/Location/8-10. Zankoku/9. Xianhua/Xianhua.md",
     "Next Campaign/DM Notes/Location/8-10. Zankoku/9. Xianhua/the Imperial Throne.md",
     "Next Campaign/DM Notes/Location/8-10. Zankoku/9. Xianhua/The forbidden city.md",
-    "Next Campaign/DM Notes/Location/8-10. Zankoku/9. Xianhua/The Emerald gate.md",
     "Next Campaign/DM Notes/Images/Drawing Wiyasaka.excalidraw.png",
     "Next Campaign/DM Notes/Images/Pasted image 20230125030031.png",
     "Next Campaign/DM Notes/Images/Development 10 (without background).png",
