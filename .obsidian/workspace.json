@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Next Campaign/DM Notes/Characters/NPC/Warhorse.md",
+                "file": "Next Campaign/DM Notes/Characters/NPC/Mandkhai.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Next Campaign/DM Notes/Characters/NPC/Warhorse.md",
+                "file": "Next Campaign/DM Notes/Characters/NPC/Mandkhai.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Next Campaign/DM Notes/Characters/NPC/Warhorse.md",
+                "file": "Next Campaign/DM Notes/Characters/NPC/Mandkhai.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Next Campaign/DM Notes/Characters/NPC/Warhorse.md"
+                "file": "Next Campaign/DM Notes/Characters/NPC/Mandkhai.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -199,10 +199,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "764cdb2e67726223",
+  "active": "99ce44530b8244ad",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Next Campaign/DM Notes/Characters/NPC/Warhorse.md",
+    "conflict-files-obsidian-git.md",
     "Next Campaign/DM Notes/Images/Warhorse 1.png",
     "Next Campaign/DM Notes/Images/Mandkhai 1.png",
     "Next Campaign/DM Notes/Characters/NPC/Mandkhai.md",
