@@ -4,119 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "652128d36473a335",
+        "id": "050a780bc640a03f",
         "type": "tabs",
         "children": [
           {
-            "id": "3e2417fcba66112e",
+            "id": "38939916e0a0df5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Next Campaign/DM Notes/Location/8-10. Zankoku/8. Yamano/Island 2 (Kizunashima)/Kizunashima.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ed87520fde881b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Next Campaign/Backstory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49cf004b92287338",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Next Campaign/Tommy's feeling map.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cdd51df8654c9514",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Next Campaign/Zankoku/2. Relationship with Sharav.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d700a5315757cf4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Next Campaign/Zankoku/3. Bullying of the community, pregnancy, and separation with Sharav.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20e0eb86999c5f37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Next Campaign/Zankoku/1. Getting through Khunnu and Yamono.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6b26b85013a1925",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A bit of indonesian history and culture.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f87893c7e2a2d950",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Next Campaign/NPCs/Sharav.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3aca4ce3c7475fde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Next Campaign/miscs/Possible effect of Trauma in Relationship.md",
+                "file": "Next Campaign/DM Notes/from Player/A bit of indonesian history and culture.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A bit of indonesian history and culture.md",
+                "file": "Next Campaign/DM Notes/from Player/A bit of indonesian history and culture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A bit of indonesian history and culture.md",
+                "file": "Next Campaign/DM Notes/from Player/A bit of indonesian history and culture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A bit of indonesian history and culture.md"
+                "file": "Next Campaign/DM Notes/from Player/A bit of indonesian history and culture.md"
               }
             }
           },
@@ -259,12 +162,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6b26b85013a1925",
+  "active": "38939916e0a0df5b",
   "lastOpenFiles": [
+    "Next Campaign/Zankoku/1. Getting through Khunnu and Yamono.md",
+    "Next Campaign/DM Notes/from Player/A bit of indonesian history and culture.md",
     "Pasted image 20230808222611.png",
     "Pasted image 20230808221448.png",
-    "Next Campaign/Zankoku/1. Getting through Khunnu and Yamono.md",
-    "A bit of indonesian history and culture.md",
+    "Next Campaign/DM Notes/from Player/Pasted image 20230808222611.png",
+    "Next Campaign/DM Notes/from Player/Pasted image 20230808221448.png",
+    "Next Campaign/DM Notes/from Player/Pasted image 20230808223114.png",
+    "Next Campaign/DM Notes/from Player",
+    "Pasted image 20230808223114.png",
     "Next Campaign/Zankoku/2. Relationship with Sharav.md",
     "Next Campaign/Zankoku/3. Bullying of the community, pregnancy, and separation with Sharav.md",
     "Next Campaign/wabanaki/Overall.md",
@@ -296,12 +204,10 @@
     "Next Campaign/DM Notes/Location/8-10. Zankoku/8. Yamano/Island 2 (Kizunashima)/Island 2 port town.md",
     "Next Campaign/DM Notes/Images/Warhorse 1.png",
     "Next Campaign/DM Notes/Images/Mandkhai 1.png",
-    "Next Campaign/DM Notes/Images/Drawing Wiyasaka.excalidraw.png",
     "Next Campaign/wabanaki",
     "Next Campaign/DM Notes/Characters/NPC",
     "Next Campaign/DM Notes/Characters",
     "Next Campaign/TO DO",
-    "Next Campaign/DM Notes/History",
-    "Next Campaign/Vivid memories"
+    "Next Campaign/DM Notes/History"
   ]
 }
