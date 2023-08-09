@@ -15,4 +15,6 @@ After settling in for a week, Kova talked to Tommy about what happened to him. T
 
 So eventually he trained and trained. Some specialization in combat and even got a bit of subterfuge/stealthy stuff training as well. After about a month of training, he eventually went back to Kova and asked if he could help plan with his vengeance plan, killing Mika. Kova was (pretending to be) reluctant at first, but eventually agreed. They formed a team, and a gameplan. The team consists of 4 people including Tommy. The other's job was simply to set up a little camp close the hunter's tribe. They would be scouting them first, and determine the perfect time to strike.
 
-Through some sneaky beaky like and good espionage, they found out that a hunting party that includes [[Mika]] are gonna go out soon. They know the time and where they are going to go. It's go time. The rest of the team distracted the rest of the hunting party with a beast
+Through some sneaky beaky like and good espionage, they found out that a hunting party that includes [[Mika]] are gonna go out soon. They know the time and where they are going to go. It's go time. The rest of the team distracted the rest of the hunting by luring a beast which is usually hunted by scattering the hunting party first (Tommy knew the tactic). Mika was then separated.
+
+Tommy was like in the dark, assassin creed style, broody, cool as shit, edgy and stuff.
