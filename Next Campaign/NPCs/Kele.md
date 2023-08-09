@@ -1,0 +1,1 @@
+Tommy's friend, used to hunt together

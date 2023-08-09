@@ -1,0 +1,1 @@
+The man who recruited Tommy into the [[Warrior Tribe]]. He was tasked in subterfuge and playing with politics from the back (this is not known to Tommy).
