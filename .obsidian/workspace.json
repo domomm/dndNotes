@@ -65,9 +65,20 @@
                 "staged": true
               }
             }
+          },
+          {
+            "id": "c28c0b76ee40bf8f",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Next Campaign/Zankoku/3. Bullying of the community, pregnancy, and separation with Sharav.md",
+                "staged": true
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -206,10 +217,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15d9d9d32af0e70f",
+  "active": "c28c0b76ee40bf8f",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Next Campaign/DM Notes/Characters/NPC/Mandkhai.md",
+    "conflict-files-obsidian-git.md",
+    "Next Campaign/wabanaki/Visiting Tahoma and Final Assassination.md",
+    "Next Campaign/wabanaki/The Warriors Tribe and Assassinations.md",
+    "Next Campaign/Zankoku/3. Bullying of the community, pregnancy, and separation with Sharav.md",
+    "Next Campaign/Zankoku/2. Relationship with Sharav.md",
+    "Next Campaign/Zankoku/1. Getting through Khunnu and Yamono.md",
+    "Next Campaign/NPCs/Kova.md",
+    "Next Campaign/NPCs/Kele.md",
+    "Next Campaign/NPCs/Aiyana.md",
+    "Next Campaign/DM Notes/from Player/Pasted image 20230808223114.png",
+    "Next Campaign/DM Notes/from Player/Pasted image 20230808222611.png",
+    "Next Campaign/DM Notes/from Player/Pasted image 20230808221448.png",
+    "Next Campaign/DM Notes/from Player/A bit of indonesian history and culture.md",
+    "Next Campaign/DM Notes/from Player",
     "Next Campaign/wabanaki/Overall.md",
     "Next Campaign/wabanaki",
     "Next Campaign/miscs/Tahmelapachme, first ideas.md",
@@ -235,19 +259,9 @@
     "fire dragonborn on Island 4.md",
     "Next Campaign/Backstory Big Outlines.md",
     "Dragon Zodiac.md",
-    "Age of Glory.md",
-    "Next Campaign/TO DO/Player To-Do.md",
-    "Next Campaign/Unfiled details.md",
     "Next Campaign/TO DO",
-    "Next Campaign/Tahmelapachme, first ideas.md",
-    "Next Campaign/DM Notes/Location/8-10. Zankoku/10. Hwaorang/Southern korean region.md",
-    "Next Campaign/DM Notes/Location/8-10. Zankoku/Zankoku.md",
-    "Next Campaign/DM Notes/Location/8-10. Zankoku/10. Hwaorang/Northern korean region.md",
-    "Next Campaign/DM Notes/Location/8-10. Zankoku/10. Hwaorang/Korean central lake.md",
-    "Next Campaign/DM Notes/Location/8-10. Zankoku/10. Hwaorang/Jiyong university.md",
     "Next Campaign/DM Notes/Images/Drawing Wiyasaka.excalidraw.png",
     "Next Campaign/DM Notes/Images/Pasted image 20230125030031.png",
-    "Next Campaign/DM Notes/Images/Development 10 (without background).png",
-    "Next Campaign/DM Notes/Mechanics"
+    "Next Campaign/DM Notes/Images/Development 10 (without background).png"
   ]
 }
