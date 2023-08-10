@@ -70,10 +70,11 @@
             "id": "c28c0b76ee40bf8f",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Next Campaign/Zankoku/3. Bullying of the community, pregnancy, and separation with Sharav.md",
-                "staged": true
+                "file": "Next Campaign/DM Notes/What happened after they broke up.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -152,6 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Next Campaign/DM Notes/What happened after they broke up.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,6 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Next Campaign/DM Notes/What happened after they broke up.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +192,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Next Campaign/DM Notes/What happened after they broke up.md"
+              }
             }
           },
           {
@@ -219,6 +224,13 @@
   },
   "active": "c28c0b76ee40bf8f",
   "lastOpenFiles": [
+    "Next Campaign/miscs/Possible effect of Trauma in Relationship.md",
+    "Next Campaign/DM Notes/What happened after they broke up.md",
+    "Next Campaign/DM Notes/History/Zankoku-Khunnu war.md",
+    "Next Campaign/DM Notes/from Player/Pasted image 20230808223114.png",
+    "Next Campaign/DM Notes/from Player/Pasted image 20230808222611.png",
+    "Next Campaign/DM Notes/from Player/Pasted image 20230808221448.png",
+    "Next Campaign/DM Notes/from Player/A bit of indonesian history and culture.md",
     "Next Campaign/DM Notes/Characters/NPC/Mandkhai.md",
     "conflict-files-obsidian-git.md",
     "Next Campaign/wabanaki/Visiting Tahoma and Final Assassination.md",
@@ -229,17 +241,12 @@
     "Next Campaign/NPCs/Kova.md",
     "Next Campaign/NPCs/Kele.md",
     "Next Campaign/NPCs/Aiyana.md",
-    "Next Campaign/DM Notes/from Player/Pasted image 20230808223114.png",
-    "Next Campaign/DM Notes/from Player/Pasted image 20230808222611.png",
-    "Next Campaign/DM Notes/from Player/Pasted image 20230808221448.png",
-    "Next Campaign/DM Notes/from Player/A bit of indonesian history and culture.md",
     "Next Campaign/DM Notes/from Player",
     "Next Campaign/wabanaki/Overall.md",
     "Next Campaign/wabanaki",
     "Next Campaign/miscs/Tahmelapachme, first ideas.md",
     "Next Campaign/miscs/Unfiled Lores.md",
     "Next Campaign/miscs/Unfiled details.md",
-    "Next Campaign/miscs/Possible effect of Trauma in Relationship.md",
     "Next Campaign/miscs",
     "Next Campaign/Zankoku/Relationship with Sharav and early Bullying.md",
     "Next Campaign/Zankoku",
@@ -257,8 +264,6 @@
     "Next Campaign/Backstory.md",
     "metal dragonborn on island 4.md",
     "fire dragonborn on Island 4.md",
-    "Next Campaign/Backstory Big Outlines.md",
-    "Dragon Zodiac.md",
     "Next Campaign/TO DO",
     "Next Campaign/DM Notes/Images/Drawing Wiyasaka.excalidraw.png",
     "Next Campaign/DM Notes/Images/Pasted image 20230125030031.png",
