@@ -24,4 +24,5 @@ Okay now Tommy doesn't know shit no more. He was hella confused and panicking. I
 
 Tommy, at this point, saw this as the only way for him to know the truth, to see first who to really trust. 
 
+FAST ROUNDS, faked death the Elder, it was planned and shit. Tommy tasked to find out more. He got back. He did find out more after sneaky beaky to Kova's room or sumn. He feels confused and betrayed. He bouta go back to the hunter's tribe and report, but otw he feels very confused if this is the right thing to do and not sure who to trust. So he goes to Wiyasaka instead to free his bro, thinking that he's the only one he could trust. In the process of breaking out Tahoma refused to join, and then well Tommy real mad, sad, confused, took a horse, ran out of the city. Was chased by basically a million people. A convenient storm comes in, making him harder to catch up to, but he fell into the river. Knocked out, woke up in a cart owned by some Khunnu bandits, and Tommy joined em.
 
