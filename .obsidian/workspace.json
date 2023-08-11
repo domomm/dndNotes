@@ -72,14 +72,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Next Campaign/DM Notes/What happened after they broke up.md",
+                "file": "Next Campaign/DM Notes/Location/8-10. Zankoku/9. Xianhua/Emerald Gate/The Ruby Bastion.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "cb68d057e3f62463",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Next Campaign/DM Notes/Location/8-10. Zankoku/9. Xianhua/Emerald Gate/Rasa Jawa.md",
+                "staged": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -153,7 +164,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Next Campaign/DM Notes/What happened after they broke up.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +180,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Next Campaign/DM Notes/What happened after they broke up.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,9 +201,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Next Campaign/DM Notes/What happened after they broke up.md"
-              }
+              "state": {}
             }
           },
           {
@@ -222,10 +229,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c28c0b76ee40bf8f",
+  "active": "cb68d057e3f62463",
   "lastOpenFiles": [
-    "Next Campaign/miscs/Possible effect of Trauma in Relationship.md",
+    "The yi ling ba family.md",
+    "Next Campaign/DM Notes/Location/8-10. Zankoku/9. Xianhua/Xianhua.md",
+    "Next Campaign/DM Notes/Location/8-10. Zankoku/9. Xianhua/Emerald Gate/The Ruby Bastion.md",
+    "the Shang You family.md",
+    "Next Campaign/DM Notes/Location/8-10. Zankoku/9. Xianhua/Emerald Gate/The Sapphire Wall.md",
+    "Next Campaign/DM Notes/Location/8-10. Zankoku/9. Xianhua/Emerald Gate/Rasa Jawa.md",
+    "Next Campaign/DM Notes/Location/8-10. Zankoku/9. Xianhua/Emerald Gate/The Emerald gate.md",
     "Next Campaign/DM Notes/What happened after they broke up.md",
+    "Next Campaign/DM Notes/Location/8-10. Zankoku/9. Xianhua/Emerald Gate",
+    "Next Campaign/miscs/Possible effect of Trauma in Relationship.md",
     "Next Campaign/DM Notes/History/Zankoku-Khunnu war.md",
     "Next Campaign/DM Notes/from Player/Pasted image 20230808223114.png",
     "Next Campaign/DM Notes/from Player/Pasted image 20230808222611.png",
@@ -250,21 +265,13 @@
     "Next Campaign/miscs",
     "Next Campaign/Zankoku/Relationship with Sharav and early Bullying.md",
     "Next Campaign/Zankoku",
-    "Next Campaign/Tommy's feeling map.md",
-    "Next Campaign/NPCs/Sharav.md",
     "Next Campaign/NPCs",
-    "Next Campaign/DM Notes/Mechanics/Limit breaking.md",
-    "Next Campaign/DM Notes/Characters/NPC/Warhorse.md",
     "Next Campaign/DM Notes/Images/Warhorse 1.png",
     "Next Campaign/DM Notes/Images/Mandkhai 1.png",
     "Next Campaign/DM Notes/Characters/NPC",
     "Next Campaign/DM Notes/Characters/New folder",
     "Next Campaign/DM Notes/Characters",
     "Next Campaign/DM Notes/New folder",
-    "Next Campaign/Backstory.md",
-    "metal dragonborn on island 4.md",
-    "fire dragonborn on Island 4.md",
-    "Next Campaign/TO DO",
     "Next Campaign/DM Notes/Images/Drawing Wiyasaka.excalidraw.png",
     "Next Campaign/DM Notes/Images/Pasted image 20230125030031.png",
     "Next Campaign/DM Notes/Images/Development 10 (without background).png"
