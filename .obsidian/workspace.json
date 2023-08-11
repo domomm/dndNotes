@@ -82,10 +82,11 @@
             "id": "cb68d057e3f62463",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Next Campaign/DM Notes/Location/8-10. Zankoku/9. Xianhua/Emerald Gate/Rasa Jawa.md",
-                "staged": false
+                "file": "Next Campaign/DM Notes/Location/8-10. Zankoku/9. Xianhua/Emerald Gate/The Sapphire Wall.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -164,6 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Next Campaign/DM Notes/Location/8-10. Zankoku/9. Xianhua/Emerald Gate/The Sapphire Wall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,6 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Next Campaign/DM Notes/Location/8-10. Zankoku/9. Xianhua/Emerald Gate/The Sapphire Wall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +204,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Next Campaign/DM Notes/Location/8-10. Zankoku/9. Xianhua/Emerald Gate/The Sapphire Wall.md"
+              }
             }
           },
           {
@@ -231,13 +236,13 @@
   },
   "active": "cb68d057e3f62463",
   "lastOpenFiles": [
+    "Next Campaign/DM Notes/Location/8-10. Zankoku/9. Xianhua/Emerald Gate/The Ruby Bastion.md",
+    "Next Campaign/DM Notes/Location/8-10. Zankoku/9. Xianhua/Emerald Gate/The Emerald gate.md",
+    "Next Campaign/DM Notes/Location/8-10. Zankoku/9. Xianhua/Emerald Gate/Rasa Jawa.md",
     "The yi ling ba family.md",
     "Next Campaign/DM Notes/Location/8-10. Zankoku/9. Xianhua/Xianhua.md",
-    "Next Campaign/DM Notes/Location/8-10. Zankoku/9. Xianhua/Emerald Gate/The Ruby Bastion.md",
     "the Shang You family.md",
     "Next Campaign/DM Notes/Location/8-10. Zankoku/9. Xianhua/Emerald Gate/The Sapphire Wall.md",
-    "Next Campaign/DM Notes/Location/8-10. Zankoku/9. Xianhua/Emerald Gate/Rasa Jawa.md",
-    "Next Campaign/DM Notes/Location/8-10. Zankoku/9. Xianhua/Emerald Gate/The Emerald gate.md",
     "Next Campaign/DM Notes/What happened after they broke up.md",
     "Next Campaign/DM Notes/Location/8-10. Zankoku/9. Xianhua/Emerald Gate",
     "Next Campaign/miscs/Possible effect of Trauma in Relationship.md",
