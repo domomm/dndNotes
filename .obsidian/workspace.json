@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "233f68423774b25f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Next Campaign/wabanaki/Visiting Tahoma and Final Assassination.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Next Campaign/wabanaki/Visiting Tahoma and Final Assassination.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Next Campaign/wabanaki/Visiting Tahoma and Final Assassination.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -162,11 +175,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "38939916e0a0df5b",
+  "active": "233f68423774b25f",
   "lastOpenFiles": [
+    "Next Campaign/wabanaki/Visiting Tahoma and Final Assassination.md",
+    "conflict-files-obsidian-git.md",
+    "Next Campaign/DM Notes/What happened after they broke up.md",
     "fire dragonborn on Island 4.md",
     "metal dragonborn on island 4.md",
-    "Next Campaign/wabanaki/Visiting Tahoma and Final Assassination.md",
     "Next Campaign/Zankoku/1. Getting through Khunnu and Yamono.md",
     "Next Campaign/Zankoku/2. Relationship with Sharav.md",
     "Next Campaign/Zankoku/3. Bullying of the community, pregnancy, and separation with Sharav.md",
@@ -195,8 +210,6 @@
     "Next Campaign/DM Notes/from Player/Pasted image 20230808223114.png",
     "Next Campaign/DM Notes/from Player",
     "Pasted image 20230808223114.png",
-    "Next Campaign/Backstory.md",
-    "Next Campaign/miscs/Possible effect of Trauma in Relationship.md",
     "Sharav",
     "Next Campaign/NPCs",
     "Next Campaign/Zankoku",

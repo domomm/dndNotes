@@ -1,0 +1,6 @@
+
+### DM Initial draft
+
+The relationship was short and both of them yearned for affection, but were not communicative enough to convey that they actually liked eachother. [[Tahmelapachme Nakai]] left eventually without giving good reasons. After 11 months, [[Zhina's character]] was born. [[Sharav of the scorched fields]] was confused, but at the same time elated to regain something that looks like a family, even if it was totally different. (3281) She had to raise her child alone as she had no way of contacting [[Tahmelapachme Nakai]] for the first 10 years. There was still a lot of prejudice towards people from the [[Khunnu]]. [[Zhina's character]] was bullied but she could push away the bullies with fire manipulation. Eventually, [[Sharav of the scorched fields]] was able to contact [[Tahmelapachme Nakai]]. (3291) He refused to have anything to do with the child, but did not elaborate why.
+
+She eventually gave up on trying to involve some sort of deadbeat dad and tried to raise as best as she can. While not working a bad job at all as horse riding teacher, it was still hard to raise a child on their own. Eventually, [[Zhina's character]] sought her father herself, almost of a sense to find what she was missing and to understand where the feelings her mother hold come from. (3301)
