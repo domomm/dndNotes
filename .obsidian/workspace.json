@@ -118,6 +118,17 @@
             "id": "9b84218aa96a7e10",
             "type": "leaf",
             "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "The yi ling ba family.md",
+                "staged": true
+              }
+            }
+          },
+          {
+            "id": "ef0d6c71f874d593",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "conflict-files-obsidian-git.md",
@@ -127,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -270,7 +281,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b84218aa96a7e10",
+  "active": "ef0d6c71f874d593",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Next Campaign/wabanaki/Visiting Tahoma and Final Assassination.md",
