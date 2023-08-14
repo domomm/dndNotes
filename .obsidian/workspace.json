@@ -8,137 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fc89027b940fa978",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Next Campaign/DM Notes/Mechanics/Limit breaking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f00e1737a778ac2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Next Campaign/DM Notes/Mechanics/Alignment.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a5ed36b4e4b714be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Next Campaign/Backstory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "764cdb2e67726223",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Next Campaign/DM Notes/Characters/NPC/Mandkhai.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15d9d9d32af0e70f",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "Next Campaign/Tommy's feeling map.md",
-                "staged": true
-              }
-            }
-          },
-          {
-            "id": "c28c0b76ee40bf8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Next Campaign/DM Notes/Location/8-10. Zankoku/9. Xianhua/Emerald Gate/The Ruby Bastion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb68d057e3f62463",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Next Campaign/DM Notes/Location/8-10. Zankoku/9. Xianhua/Emerald Gate/The Sapphire Wall.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac6b76a12531c3b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Next Campaign/DM Notes/Location/8-10. Zankoku/9. Xianhua/Emerald Gate/The Ruby Bastion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "85cf6fc9aac5089a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Next Campaign/wabanaki/Visiting Tahoma and Final Assassination.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9b84218aa96a7e10",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "The yi ling ba family.md",
-                "staged": true
-              }
-            }
-          },
-          {
-            "id": "ef0d6c71f874d593",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Next Campaign/Zankoku/2. Relationship with Sharav.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Next Campaign/Zankoku/2. Relationship with Sharav.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Next Campaign/Zankoku/2. Relationship with Sharav.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Next Campaign/Zankoku/2. Relationship with Sharav.md"
               }
             }
           },
@@ -281,8 +162,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef0d6c71f874d593",
+  "active": "9b84218aa96a7e10",
   "lastOpenFiles": [
+    "Next Campaign/NPCs/Sharav.md",
+    "Next Campaign/NPCs/Kova.md",
+    "Next Campaign/NPCs/Kele.md",
+    "Next Campaign/NPCs/Aiyana.md",
+    "Next Campaign/miscs/Unfiled Lores.md",
+    "Next Campaign/miscs/Unfiled details.md",
+    "Next Campaign/miscs/Tahmelapachme, first ideas.md",
+    "Next Campaign/miscs/Possible effect of Trauma in Relationship.md",
     "conflict-files-obsidian-git.md",
     "Next Campaign/wabanaki/Visiting Tahoma and Final Assassination.md",
     "Next Campaign/wabanaki/The Warriors Tribe and Assassinations.md",
@@ -297,7 +186,6 @@
     "Next Campaign/DM Notes/Location/8-10. Zankoku/9. Xianhua/Xianhua.md",
     "Next Campaign/DM Notes/What happened after they broke up.md",
     "Next Campaign/DM Notes/Location/8-10. Zankoku/9. Xianhua/Emerald Gate",
-    "Next Campaign/miscs/Possible effect of Trauma in Relationship.md",
     "Next Campaign/DM Notes/History/Zankoku-Khunnu war.md",
     "Next Campaign/DM Notes/from Player/Pasted image 20230808223114.png",
     "Next Campaign/DM Notes/from Player/Pasted image 20230808222611.png",
@@ -306,15 +194,8 @@
     "Next Campaign/DM Notes/Characters/NPC/Mandkhai.md",
     "Next Campaign/Zankoku/3. Bullying of the community, pregnancy, and separation with Sharav.md",
     "Next Campaign/Zankoku/2. Relationship with Sharav.md",
-    "Next Campaign/Zankoku/1. Getting through Khunnu and Yamono.md",
-    "Next Campaign/NPCs/Kova.md",
-    "Next Campaign/NPCs/Kele.md",
-    "Next Campaign/NPCs/Aiyana.md",
     "Next Campaign/DM Notes/from Player",
     "Next Campaign/wabanaki",
-    "Next Campaign/miscs/Tahmelapachme, first ideas.md",
-    "Next Campaign/miscs/Unfiled Lores.md",
-    "Next Campaign/miscs/Unfiled details.md",
     "Next Campaign/miscs",
     "Next Campaign/Zankoku",
     "Next Campaign/NPCs",
