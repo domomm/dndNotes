@@ -9,3 +9,7 @@ Aster (Vika), aaracokra WING GUARDIAN nickname(?). With a lemming -> pebble.
 Occi (Bastian). Teenager human 17or 18. Latino color of skin. FEline eyes. Good build. Large ass warhammer.
 
 Gagansundaram
+
+Rafam Ula, where the horse where Gagan currently is.
+
+Some vault hunter took the swords from the fountain. Blondish hair and have a tail.
