@@ -12,4 +12,4 @@ Gagansundaram
 
 Rafam Ula, where the horse where Gagan currently is.
 
-Some vault hunter took the swords from the fountain. Blondish hair and have a tail.
+Some vault hunter took the swords from the fountain. Blondish hair and have a tail. 
