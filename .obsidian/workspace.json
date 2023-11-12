@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sesh 1.md",
+                "file": "Next Campaign/notes/sesh 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Erhi.md",
+                "file": "Next Campaign/notes/Erhi.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sesh 2.md",
+                "file": "Next Campaign/notes/Erhi.md",
                 "mode": "source",
                 "source": false
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sesh 2.md",
+                "file": "Next Campaign/notes/Erhi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sesh 2.md",
+                "file": "Next Campaign/notes/Erhi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sesh 2.md"
+                "file": "Next Campaign/notes/Erhi.md"
               }
             }
           },
@@ -255,17 +255,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "876ce0cc8368f3f7",
+  "active": "e4b690a8c57c26d6",
   "lastOpenFiles": [
-    "Erhi.md",
-    "sesh 2.md",
+    "Next Campaign/notes/sesh 2.md",
+    "Next Campaign/notes/sesh 1.md",
+    "Next Campaign/notes",
+    "Next Campaign/New folder",
+    "Next Campaign/notes/Erhi.md",
     "Untitled",
     "Pasted image 20230815102928.png",
     "Pasted image 20230815102842.png",
     "Pasted image 20230815102735.png",
     "Pasted image 20230815102654.png",
     "Pasted image 20230815102606.png",
-    "sesh 1.md",
     "Next Campaign/Chapter 2/4. Hit man life, relationship with Jaya.md",
     "Next Campaign/Chapter 1/1. Childhood and Pre-assassination.md",
     "Next Campaign/Chapter 2/5. Chilling in Yamano.md",
@@ -294,14 +296,11 @@
     "Next Campaign/Backstory.md",
     "Next Campaign/Chapter 1/Overall.md",
     "Next Campaign/Backstory Big Outlines.md",
-    "Next Campaign/Locations/Tisa Bangaray.md",
     "Next Campaign/Locations",
     "Next Campaign/DM Notes/Location/8-10. Zankoku/9. Xianhua/Emerald Gate",
     "Next Campaign/DM Notes/from Player",
     "Sharav",
     "Next Campaign/NPCs",
-    "Next Campaign/Chapter 2",
-    "Next Campaign/miscs",
-    "Next Campaign/Chapter 1"
+    "Next Campaign/Chapter 2"
   ]
 }
