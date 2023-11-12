@@ -1,5 +1,3 @@
-Tommy doesnt know is in italic.
-
 *In Artisinal district root can emit faint light. Green.*
 
 *Salania one of the shops, make silk.*
@@ -23,3 +21,15 @@ Hyong Se Gallery. So now Tommy knows that Jong knows someone. Gona meet at Ratha
 *Jong goes home in the living district. Cracking of glass under your feet. His mother in the corner not doing anything, looks terrified. Asked for flower, got really scolded cuz he forgot flowers. It's because of him that HES dead. his brother is dead because of him (her words). She's like a tiger mom.*
 
 *Occi looking for the blue guy. Someone attacks him. Then everything becomes fuzzy. Its in an alley. The attack was shots by arrow. *
+
+I get an envelope in the morning. Signed by YK. Invitation by Gagan, Yash Kumar to watch the horse race, invitation extends to the whole group. 
+
+*Mom proly got big mental problem or something. She's super kind in the morning to JongMin.*
+
+Aster is from... Avian's reach. In the southern root in Vriksha Rajya there's a mountain range which could maybe have bird people.
+
+*Jongmin and Aianaye seems to have a connection to Yash Kumar.*
+
+We go to the book shop with Jong Min. The shopkeeper is a halforc. The shopkeeper is on me. He told me to pay 20 gold for information. 
+
+We go to Yash Kumar's office. Grey hair. He's wearing Kurtha, super rich vibes. The (stolen) swords apparently give fresh water. He proley fled to El Maghreb El Wafer.
