@@ -33,3 +33,8 @@ Aster is from... Avian's reach. In the southern root in Vriksha Rajya there's a 
 We go to the book shop with Jong Min. The shopkeeper is a halforc. The shopkeeper is on me. He told me to pay 20 gold for information. 
 
 We go to Yash Kumar's office. Grey hair. He's wearing Kurtha, super rich vibes. The (stolen) swords apparently give fresh water. He proley fled to El Maghreb El Wafer. Apprently chose us because we have no affiliations and he sorta just want us to get lucky. 300 gold price. 
+
+Monkey is suspected to be a zodiac. Seven active ones. There's a dragon, who presumedly live around the Yamano region, there's the snake, in the middle sea, the horse, owned by the leaders in Khunnu, the goat which have not been seen in a while, the monkey, the dog, which has not been sighted in 1000 years, the pig which also again has not been seen in a while. While = 10 years ish.
+
+The mission from Kawana Teh Nahu (Teh Waipunamu name), in milling mansion called mahogany mayas milling mansion. They have been harvesting wood that's illegal. They been taking rare trees. He wants us to do two things, we need to collect hush money. Figure out what is going on: it seems that has been some supernatural thingy in the woods where they collect the woods. People have gone missing in the woods, the lumber jacks and their guards. 
+
