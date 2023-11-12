@@ -1,1 +1,3 @@
 Erhi my daughter. Burnt backyard from wild magic. Some weird animal shit been happening. likes strawberries, like talking to people, but sometimes too trusting.
+
+I bought her a vest... 

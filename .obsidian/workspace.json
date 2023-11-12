@@ -88,6 +88,18 @@
             }
           },
           {
+            "id": "876ce0cc8368f3f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sesh 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5544f5931bb84ce6",
             "type": "leaf",
             "state": {
@@ -100,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -174,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Erhi.md",
+                "file": "sesh 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Erhi.md",
+                "file": "sesh 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Erhi.md"
+                "file": "sesh 2.md"
               }
             }
           },
@@ -243,15 +255,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bd9a89ef26c4135e",
+  "active": "876ce0cc8368f3f7",
   "lastOpenFiles": [
+    "Erhi.md",
+    "sesh 2.md",
+    "Untitled",
     "Pasted image 20230815102928.png",
     "Pasted image 20230815102842.png",
     "Pasted image 20230815102735.png",
     "Pasted image 20230815102654.png",
     "Pasted image 20230815102606.png",
     "sesh 1.md",
-    "Erhi.md",
     "Next Campaign/Chapter 2/4. Hit man life, relationship with Jaya.md",
     "Next Campaign/Chapter 1/1. Childhood and Pre-assassination.md",
     "Next Campaign/Chapter 2/5. Chilling in Yamano.md",
@@ -275,7 +289,6 @@
     "Next Campaign/Some images/Pasted image 20230815102735.png",
     "Next Campaign/Some images/Pasted image 20230815102654.png",
     "Next Campaign/Some images/Pasted image 20230815102606.png",
-    "Next Campaign/Some images/Pasted image 20230815102928.png",
     "Next Campaign/Some images",
     "Next Campaign/Locations/Waroeng.md",
     "Next Campaign/Backstory.md",
@@ -289,7 +302,6 @@
     "Next Campaign/NPCs",
     "Next Campaign/Chapter 2",
     "Next Campaign/miscs",
-    "Next Campaign/Chapter 1",
-    "Next Campaign/DM Notes/Characters/NPC"
+    "Next Campaign/Chapter 1"
   ]
 }
