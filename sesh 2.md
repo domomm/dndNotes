@@ -32,4 +32,4 @@ Aster is from... Avian's reach. In the southern root in Vriksha Rajya there's a 
 
 We go to the book shop with Jong Min. The shopkeeper is a halforc. The shopkeeper is on me. He told me to pay 20 gold for information. 
 
-We go to Yash Kumar's office. Grey hair. He's wearing Kurtha, super rich vibes. The (stolen) swords apparently give fresh water. He proley fled to El Maghreb El Wafer.
+We go to Yash Kumar's office. Grey hair. He's wearing Kurtha, super rich vibes. The (stolen) swords apparently give fresh water. He proley fled to El Maghreb El Wafer. Apprently chose us because we have no affiliations and he sorta just want us to get lucky. 300 gold price. 
