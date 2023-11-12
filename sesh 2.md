@@ -15,3 +15,11 @@ Tommy saw Jong and Occi in the artisinal district.
 *Aianaye Find souvenir for young child, a girl, Lakshmi. Oh yeah she did a lot for her like made her go to school. *
 
 Hyong Se Gallery. So now Tommy knows that Jong knows someone. Gona meet at Ratham Ula the next day.
+
+*Apparently there's a magic shop around here. But anyway, Occi got creeps for some reason, he sees a blue air genasi. He goes for him sneakily. Same guy that stole his stuff*
+
+*Aianaye goes to the slums for the girl. The girl is bullied. Aianaye gona go to the school apparently lol.*
+
+*Jong goes home in the living district. Cracking of glass under your feet. His mother in the corner not doing anything, looks terrified. Asked for flower, got really scolded cuz he forgot flowers. It's because of him that HES dead. his brother is dead because of him (her words). She's like a tiger mom.*
+
+*Occi looking for the blue guy. Someone attacks him. Then everything becomes fuzzy. Its in an alley. The attack was shots by arrow. *
