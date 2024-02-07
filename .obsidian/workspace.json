@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Moon's Rest/notes/sesh 1.md",
+                "file": "The Moon's Rest/notes/sesh 01.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Moon's Rest/notes/sesh 2.md",
+                "file": "The Moon's Rest/notes/sesh 02.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Moon's Rest/Chapter 1/1. Childhood and Pre-assassination.md",
+                "file": "The Moon's Rest/notes/sesh 02.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "145ac265cf1a650c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Moon's Rest/notes/sesh 03.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "383c807604293230",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Moon's Rest/notes/sesh 04.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "53107ab583c1ef8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Moon's Rest/notes/sesh 05.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -198,7 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Moon's Rest/Chapter 1/1. Childhood and Pre-assassination.md",
+                "file": "The Moon's Rest/notes/sesh 05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +251,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Moon's Rest/Chapter 1/1. Childhood and Pre-assassination.md",
+                "file": "The Moon's Rest/notes/sesh 05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +274,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Moon's Rest/Chapter 1/1. Childhood and Pre-assassination.md"
+                "file": "The Moon's Rest/notes/sesh 05.md"
               }
             }
           },
@@ -267,16 +303,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6450561bc6a71df2",
+  "active": "53107ab583c1ef8c",
   "lastOpenFiles": [
-    "The Moon's Rest/Chapter 1/2. The Warriors Tribe and Assassinations.md",
+    "The Moon's Rest/notes/sesh 04.md",
+    "The Moon's Rest/notes/sesh 05.md",
+    "The Moon's Rest/notes/sesh 06.md",
+    "The Moon's Rest/notes/sesh 03.md",
+    "The Moon's Rest/notes/sesh 02.md",
+    "The Moon's Rest/notes/sesh 01.md",
     "The Moon's Rest/Chapter 1/1. Childhood and Pre-assassination.md",
+    "The Moon's Rest/Chapter 1/2. The Warriors Tribe and Assassinations.md",
     "The Moon's Rest/Chapter 2/3. Tisa Bangaray, becoming a hitman, and separation with Sharav.md",
     "The Moon's Rest/Chapter 2/4. Hit man life, relationship with Jaya.md",
-    "sesh 3.md",
     "The Moon's Rest/Chapter 2/5. Chilling in Yamano.md",
-    "The Moon's Rest/notes/sesh 2.md",
-    "The Moon's Rest/notes/sesh 1.md",
     "The Moon's Rest/notes",
     "Next Campaign/New folder",
     "The Moon's Rest/notes/Erhi.md",
@@ -306,9 +345,6 @@
     "The Moon's Rest/Some images/Pasted image 20230815102606.png",
     "The Moon's Rest/Some images",
     "The Moon's Rest/Locations/Waroeng.md",
-    "Next Campaign/Backstory.md",
-    "The Moon's Rest/Chapter 1/Overall.md",
-    "The Moon's Rest/Backstory Big Outlines.md",
     "The Moon's Rest/Locations",
     "The Moon's Rest/DM Notes/Location/8-10. Zankoku/9. Xianhua/Emerald Gate",
     "The Moon's Rest/DM Notes/from Player",

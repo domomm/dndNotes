@@ -1,0 +1,1 @@
+its the session with Lucia, going to the forest to defeat the monster. Fought some bandits or sumn, there was a SY lady.
