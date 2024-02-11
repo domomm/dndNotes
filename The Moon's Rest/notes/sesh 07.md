@@ -1,0 +1,1 @@
+The unicorn horn basically makes you real high, deals piercing and psychic damage.
