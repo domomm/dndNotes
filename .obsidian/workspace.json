@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2ac25232b4ced4be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Moon's Rest/notes/sesh 09.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Moon's Rest/notes/sesh 07.md",
+                "file": "The Moon's Rest/notes/sesh 09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Moon's Rest/notes/sesh 07.md",
+                "file": "The Moon's Rest/notes/sesh 09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Moon's Rest/notes/sesh 07.md"
+                "file": "The Moon's Rest/notes/sesh 09.md"
               }
             }
           },
@@ -175,10 +187,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4b690a8c57c26d6",
+  "active": "2ac25232b4ced4be",
   "lastOpenFiles": [
-    "The Moon's Rest/notes/sesh 07.md",
+    "The Moon's Rest/Chapter 2/4. Hit man life, relationship with Jaya.md",
+    "The Moon's Rest/Chapter 1/2. The Warriors Tribe and Assassinations.md",
+    "The Moon's Rest/notes/sesh 09.md",
     "The Moon's Rest/notes/sesh 08.md",
+    "The Moon's Rest/notes/sesh 07.md",
     "The Moon's Rest/DM Notes/Location/8-10. Zankoku/9. Xianhua/Emerald Gate/Rasa Jawa.md",
     "The Moon's Rest/notes/sesh 06.md",
     "The Moon's Rest/notes/sesh 04.md",
@@ -188,10 +203,8 @@
     "The Moon's Rest/notes/sesh 01.md",
     "The Moon's Rest/Chapter 2/5. Chilling in Yamano.md",
     "The Moon's Rest/Chapter 2/3. Tisa Bangaray, becoming a hitman, and separation with Sharav.md",
-    "The Moon's Rest/Chapter 2/4. Hit man life, relationship with Jaya.md",
     "The Moon's Rest/notes/sesh 05.md",
     "The Moon's Rest/Chapter 1/1. Childhood and Pre-assassination.md",
-    "The Moon's Rest/Chapter 1/2. The Warriors Tribe and Assassinations.md",
     "The Moon's Rest/notes",
     "Next Campaign/New folder",
     "Untitled",
@@ -211,7 +224,6 @@
     "The Moon's Rest/TO DO/Player To-Do.md",
     "The Moon's Rest/Chapter 2/2. Relationship with Sharav.md",
     "The Moon's Rest/DM Notes/Characters/NPC/Warhorse.md",
-    "The Moon's Rest/DM Notes/What happened after they broke up.md",
     "The Moon's Rest/Some images/Pasted image 20230815102842.png",
     "The Moon's Rest/Some images/Pasted image 20230815102735.png",
     "The Moon's Rest/Some images/Pasted image 20230815102654.png",
