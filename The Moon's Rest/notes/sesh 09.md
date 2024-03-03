@@ -5,5 +5,7 @@ The fisherman in Yamano?
 
 otw to the capital, roots get larger
 We made RoD.
-Ling Min (slender rogue like physique), Chang Wei (John Wayne),Liu Fang (bulky SCrawny beard), Chen Jen are new friends. Were part of SY.
+Li Ming (slender rogue like physique), Chang Wei (John Wayne),Liu Fang (bulky SCrawny beard), Chen Jen are new friends. Were part of SY.
 Got to an outpost: The Cerulian. There's like a couple of tower where we can see cool thigns.
+
+Bul-Seung
