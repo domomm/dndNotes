@@ -4,151 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "050a780bc640a03f",
+        "id": "e2781a538893a4c0",
         "type": "tabs",
         "children": [
           {
-            "id": "b0155d5a6352d3da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Moon's Rest/Chapter 2/4. Hit man life, relationship with Jaya.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8dd20c094c441b66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Moon's Rest/Chapter 2/3. Tisa Bangaray, becoming a hitman, and separation with Sharav.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "97ceffd57327a785",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Moon's Rest/Chapter 2/5. Chilling in Yamano.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1712b498a722d983",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
-          },
-          {
-            "id": "3a7b299bdd3fda79",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
-            }
-          },
-          {
-            "id": "6695d429bd162a35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Moon's Rest/notes/sesh 01.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd9a89ef26c4135e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Moon's Rest/notes/Erhi.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "876ce0cc8368f3f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Moon's Rest/notes/sesh 02.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6450561bc6a71df2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Moon's Rest/notes/sesh 02.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "145ac265cf1a650c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Moon's Rest/notes/sesh 03.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "383c807604293230",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Moon's Rest/notes/sesh 04.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53107ab583c1ef8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Moon's Rest/notes/sesh 06.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "293a650b5d2fc66e",
+            "id": "b9f7146e74c5f15d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -160,19 +20,19 @@
             }
           },
           {
-            "id": "5544f5931bb84ce6",
+            "id": "047df63d820ea1be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Moon's Rest/DM Notes/Location/8-10. Zankoku/9. Xianhua/Emerald Gate/Rasa Jawa.md",
+                "file": "The Moon's Rest/notes/sesh 08.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -315,23 +175,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "293a650b5d2fc66e",
+  "active": "e4b690a8c57c26d6",
   "lastOpenFiles": [
-    "The Moon's Rest/notes/sesh 06.md",
     "The Moon's Rest/notes/sesh 07.md",
-    "The Moon's Rest/notes/sesh 05.md",
+    "The Moon's Rest/notes/sesh 08.md",
+    "The Moon's Rest/DM Notes/Location/8-10. Zankoku/9. Xianhua/Emerald Gate/Rasa Jawa.md",
+    "The Moon's Rest/notes/sesh 06.md",
     "The Moon's Rest/notes/sesh 04.md",
     "The Moon's Rest/notes/sesh 03.md",
     "The Moon's Rest/notes/sesh 02.md",
+    "The Moon's Rest/notes/Erhi.md",
     "The Moon's Rest/notes/sesh 01.md",
-    "The Moon's Rest/Chapter 1/1. Childhood and Pre-assassination.md",
-    "The Moon's Rest/Chapter 1/2. The Warriors Tribe and Assassinations.md",
+    "The Moon's Rest/Chapter 2/5. Chilling in Yamano.md",
     "The Moon's Rest/Chapter 2/3. Tisa Bangaray, becoming a hitman, and separation with Sharav.md",
     "The Moon's Rest/Chapter 2/4. Hit man life, relationship with Jaya.md",
-    "The Moon's Rest/Chapter 2/5. Chilling in Yamano.md",
+    "The Moon's Rest/notes/sesh 05.md",
+    "The Moon's Rest/Chapter 1/1. Childhood and Pre-assassination.md",
+    "The Moon's Rest/Chapter 1/2. The Warriors Tribe and Assassinations.md",
     "The Moon's Rest/notes",
     "Next Campaign/New folder",
-    "The Moon's Rest/notes/Erhi.md",
     "Untitled",
     "Pasted image 20230815102928.png",
     "Pasted image 20230815102842.png",
@@ -348,10 +210,8 @@
     "The Moon's Rest/NPCs/Kele.md",
     "The Moon's Rest/TO DO/Player To-Do.md",
     "The Moon's Rest/Chapter 2/2. Relationship with Sharav.md",
-    "The Moon's Rest/DM Notes/Location/8-10. Zankoku/9. Xianhua/Emerald Gate/Rasa Jawa.md",
     "The Moon's Rest/DM Notes/Characters/NPC/Warhorse.md",
     "The Moon's Rest/DM Notes/What happened after they broke up.md",
-    "Sky Islands/Alina/Network/Individuals/Fontaine Malchair.md",
     "The Moon's Rest/Some images/Pasted image 20230815102842.png",
     "The Moon's Rest/Some images/Pasted image 20230815102735.png",
     "The Moon's Rest/Some images/Pasted image 20230815102654.png",
