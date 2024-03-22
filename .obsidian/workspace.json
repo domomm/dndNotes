@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "061622278b17ab89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Moon's Rest/notes/sesh 09.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -187,11 +199,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2ac25232b4ced4be",
+  "active": "061622278b17ab89",
   "lastOpenFiles": [
+    "The Moon's Rest/notes/sesh 10.md",
+    "The Moon's Rest/notes/sesh 09.md",
     "The Moon's Rest/Chapter 2/4. Hit man life, relationship with Jaya.md",
     "The Moon's Rest/Chapter 1/2. The Warriors Tribe and Assassinations.md",
-    "The Moon's Rest/notes/sesh 09.md",
     "The Moon's Rest/notes/sesh 08.md",
     "The Moon's Rest/notes/sesh 07.md",
     "The Moon's Rest/DM Notes/Location/8-10. Zankoku/9. Xianhua/Emerald Gate/Rasa Jawa.md",
@@ -223,7 +236,6 @@
     "The Moon's Rest/NPCs/Kele.md",
     "The Moon's Rest/TO DO/Player To-Do.md",
     "The Moon's Rest/Chapter 2/2. Relationship with Sharav.md",
-    "The Moon's Rest/DM Notes/Characters/NPC/Warhorse.md",
     "The Moon's Rest/Some images/Pasted image 20230815102842.png",
     "The Moon's Rest/Some images/Pasted image 20230815102735.png",
     "The Moon's Rest/Some images/Pasted image 20230815102654.png",
