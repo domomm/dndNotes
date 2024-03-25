@@ -25,48 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Moon's Rest/notes/sesh 08.md",
+                "file": "The Moon's Rest/notes/sesh 10.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "2ac25232b4ced4be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Moon's Rest/notes/sesh 09.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "061622278b17ab89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Moon's Rest/notes/sesh 09.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5310e1628d60aa71",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Moon's Rest/notes/sesh 09.md",
+                "file": "The Moon's Rest/notes/sesh 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Moon's Rest/notes/sesh 09.md",
+                "file": "The Moon's Rest/notes/sesh 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Moon's Rest/notes/sesh 09.md"
+                "file": "The Moon's Rest/notes/sesh 10.md"
               }
             }
           },
@@ -209,13 +175,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5310e1628d60aa71",
+  "active": "047df63d820ea1be",
   "lastOpenFiles": [
-    "The Moon's Rest/notes/sesh 10.md",
+    "The Moon's Rest/notes/sesh 08.md",
     "The Moon's Rest/notes/sesh 09.md",
+    "The Moon's Rest/notes/sesh 10.md",
     "The Moon's Rest/Chapter 2/4. Hit man life, relationship with Jaya.md",
     "The Moon's Rest/Chapter 1/2. The Warriors Tribe and Assassinations.md",
-    "The Moon's Rest/notes/sesh 08.md",
     "The Moon's Rest/notes/sesh 07.md",
     "The Moon's Rest/DM Notes/Location/8-10. Zankoku/9. Xianhua/Emerald Gate/Rasa Jawa.md",
     "The Moon's Rest/notes/sesh 06.md",
