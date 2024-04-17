@@ -18,3 +18,7 @@ Ruler of Khunnu is also there.
 
 On the way we saw (probably) SY people with dragon and koi in their back side. 
 
+Dude very long red hair, braces on legs, bronze things. Similar to what the church of the suns (only Occi knows). Hes 3 meters tall.
+
+Apparently this guy is trouble
+
