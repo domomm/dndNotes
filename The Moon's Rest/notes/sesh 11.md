@@ -22,4 +22,4 @@ Dude very long red hair, braces on legs, bronze things. Similar to what the chur
 
 Apparently this guy is trouble according to Occi. 
 
-I got a lotus-ish mask. NOT GOOD! killed Apache with it.
+I got a lotus-ish mask for the thingy.
