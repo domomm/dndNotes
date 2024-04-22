@@ -54,19 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d3da93e77d026ab2",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -209,7 +199,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d3da93e77d026ab2",
+  "active": "9a398ad09c444225",
   "lastOpenFiles": [
     "The Moon's Rest/notes/sesh 08.md",
     "The Moon's Rest/notes/sesh 11.md",
