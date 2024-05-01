@@ -1,1 +1,3 @@
-john wayne got caught while following the church of the sun. The beater led us to his boss: blue guy, water genasi. Kartur, grand chancellor of church of the sun. Kartur is 
+john wayne got caught while following the church of the sun. The beater led us to his boss: blue guy, water genasi. Kartur, grand chancellor of church of the sun. Kartur is head of CIA of occi's country (mega dangerous guy).
+
+Long hair lady, elven. Very pale. Naran. Ring stolen got the bird, a magpie bird. She's from Khunnu, but she does live here. Wants us to go get the ring. Willing to give gauntlet of strength or sumn. Her daughter name is Malini.
