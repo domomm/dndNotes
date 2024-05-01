@@ -1,0 +1,1 @@
+john wayne got caught while following the church of the sun. The beater led us to his boss: blue guy, water genasi. Kartur, grand chancellor of church of the sun. Kartur is 
