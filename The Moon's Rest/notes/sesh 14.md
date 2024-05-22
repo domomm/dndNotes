@@ -16,3 +16,5 @@ Nakota definitely hates me.
 
 From Tianhua, Dragon of Soul (SY), Shuey Pu Sung (She).
 
+The monastery come up with an announcement that SY kill people for soul magic.
+
