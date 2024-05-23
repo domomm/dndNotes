@@ -16,5 +16,7 @@ Nakota definitely hates me.
 
 From Tianhua, Dragon of Soul (SY), Shuey Pu Sung (She).
 
-The monastery come up with an announcement that SY kill people for soul magic.
+_(The monastery come up with an announcement that SY kill people for soul magic. This is monnastery of Ren. Apparently they thought Ren was dead. I think sister Elira is Ren's sister.)_ Tommy doesnt know this
+
+Nakota is part of the white lily family (the family I killed). She super wanted me ded. But now, because Jong Ming made a deal, she kinda made peace with it. And Im not ded.
 
