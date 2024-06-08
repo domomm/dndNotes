@@ -56,6 +56,16 @@
             }
           },
           {
+            "id": "662f26f9ed02b2d7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.2"
+              }
+            }
+          },
+          {
             "id": "047df63d820ea1be",
             "type": "leaf",
             "state": {
@@ -104,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -247,7 +257,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f3c1e4bdd86dd5c9",
+  "active": "662f26f9ed02b2d7",
   "lastOpenFiles": [
     "The Moon's Rest/notes/sesh 14.md",
     "The Moon's Rest/notes/sesh 15.md",
