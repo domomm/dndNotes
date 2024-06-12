@@ -5,6 +5,4 @@
 - Temoc. Accountant.
 
 Their inventory:
-30 golds
-Rapier
-Dagger
+some golds
