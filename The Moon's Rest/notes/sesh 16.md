@@ -12,3 +12,5 @@ The dagger makes the user more powerful with more kills.
 Folded note on Erhi, sketch of edgy me. 
 
 Sent Erhi with the YLP. Told Sharav about it.
+
+Gulmohar is a town, and has a goblin problem. The goblin camp is in the forest of flames.
