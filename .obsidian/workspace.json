@@ -80,6 +80,16 @@
             }
           },
           {
+            "id": "304d56f1e4ae7ba2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
+          },
+          {
             "id": "047df63d820ea1be",
             "type": "leaf",
             "state": {
@@ -128,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -271,7 +281,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca9c197ce7bab4ec",
+  "active": "304d56f1e4ae7ba2",
   "lastOpenFiles": [
     "The Moon's Rest/notes/RoD compatriots.md",
     "The Moon's Rest/notes/sesh 16.md",
